@@ -5,8 +5,6 @@ This project aims to understand and visualise the dataset structure, analyze and
 Project Description
 The project involves the following tasks:
 
-[Level 1: Beginner]
-
 Task 1: Data Overview
 
 Objective: Understand the dataset structure.
@@ -34,7 +32,13 @@ Steps:
 
 Identify Numerical Columns: Review the dataset to identify columns containing numerical data (e.g., age, income).
 Calculations: Use statistical functions (e.g., mean(), median(), std()) to calculate the mean, median, and standard deviation for each numerical column.
-[Level 3: Advanced]
+
+Task 4: Most Preferred Investment Avenue
+Objective: Identify the most preferred investment avenue.
+Steps:
+
+Analyze Investment Avenues: Examine thecolumn containing information about different investment avenues (e.g., equity, mutual funds).
+Frequency Analysis: Determine the investment avenue with the highest frequency or occurrence.
 
 Task 5: Reasons for Investment
 
