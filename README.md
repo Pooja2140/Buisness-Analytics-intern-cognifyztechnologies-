@@ -15,6 +15,7 @@ Steps:
 
 data analysis tool such as Python with pandas or spreadsheet software.
 Descriptive Statistics: Use descriptive functions (e.g., info() in pandas) to gather information about the number of entries, columns, and data types.
+
 Task 2: Gender Distribution
 
 Objective: Visualize gender distribution in the dataset.
